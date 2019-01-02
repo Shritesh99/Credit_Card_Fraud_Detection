@@ -10,4 +10,4 @@ In addition, we will explore the use of data visualization techniques common in 
 
 ### Check out the dataset description [here](https://www.kaggle.com/mlg-ulb/creditcardfraud).
 
-### Check out the Jupyter Notebook [here]().
+### Check out the Jupyter Notebook [here](https://github.com/Shritesh99/Credit_Card_Fraud_Detection/blob/master/Credit%20Card%20Fraud%20Detection.ipynb).
